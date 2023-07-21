@@ -11,3 +11,5 @@ Here as an example a json file is provided with polygons (or fields) intervened 
 2016 sample NDVI data for Landsat 7 (L7), 8 (L8), Sentinal2 (S2) and CHRIPS are provided as an example. 
 
 **Note**: GEE acount and an ee python environment will be needed to use the codes as is (or modify as needed).For more details contact at vikalp.mishra@nasa.gov
+
+For more info please refer to peer-review paper [here] (https://www.nature.com/articles/s41598-022-27242-3). 

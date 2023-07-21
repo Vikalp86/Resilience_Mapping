@@ -12,4 +12,4 @@ Here as an example a json file is provided with polygons (or fields) intervened 
 
 **Note**: GEE acount and an ee python environment will be needed to use the codes as is (or modify as needed).For more details contact at vikalp.mishra@nasa.gov
 
-For more info please refer to peer-review paper [here] (https://www.nature.com/articles/s41598-022-27242-3). 
+For more info please refer to peer-review paper [here](https://www.nature.com/articles/s41598-022-27242-3). 
